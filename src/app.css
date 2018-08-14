@@ -1,0 +1,22 @@
+body {
+  font-family: 'arial';
+}
+
+ul {
+  list-style-type: none;
+}
+
+.app {
+  padding: 24px;
+}
+
+.items {
+  background: #ccc;
+  padding: 12px;
+  margin: 12px;
+}
+
+.item {
+  background: #c1c1c1;
+  padding: 12px;
+}
